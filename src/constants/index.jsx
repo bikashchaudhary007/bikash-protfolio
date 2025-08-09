@@ -34,7 +34,7 @@ export const HERO = {
   name: "BIKASH CHAUDHARY",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate mobile application developer with a knack for creating beautiful and functional user interfaces. I like transforming ideas into engaging app experiences for over a decade.",
+    "A passionate Software Engineer specializing in mobile app development with expertise in React Native and AWS Amplify. Dedicated to building seamless, high-performing applications that enhance user experience.",
 };
 
 export const PROJECTS = [

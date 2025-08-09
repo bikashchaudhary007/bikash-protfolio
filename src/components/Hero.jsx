@@ -32,8 +32,8 @@ const Hero = () => {
             transition={{ duration: 1 }}
             src={carlImg}
             alt="Bikash Image"
-            width={550}
-            height={550}
+            width={450}
+            height={450}
             className="rounded-3xl"
           />
         </div>
